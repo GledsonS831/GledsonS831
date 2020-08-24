@@ -1,17 +1,3 @@
-<style>
-    #h1, #h3{
-        color:white;
-    }
-    
-    #h3{
-        font: italic;
-    }
-
-    html{
-        background: rgba(28,218,139,0.9);
-    }
-</style>
-
 <h1 id="h1"> Hi there 👋. I’m Gledson Santos 👊 </h1>
 
 <h3 id="h3">I develop fullstack applications and always looking forward on learning  increasingly new technologies.</h3>
