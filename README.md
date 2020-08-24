@@ -1,9 +1,12 @@
-<h1 id="h1"> Hi there 👋. I’m Gledson Santos 👊 </h1>
+<body style="color:red"/>
+
+<h1 style="color:red"> Hi there 👋. I’m Gledson Santos 👊 </h1>
 
 <h3 id="h3">I develop fullstack applications and always looking forward on learning  increasingly new technologies.</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=GledsonS831&show_icons=true&theme=vue" alt="GledsonS831"/> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GledsonS831)
 
 <!--
 **GledsonS831/GledsonS831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
