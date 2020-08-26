@@ -7,7 +7,7 @@
     <a href="https://api.whatsapp.com/send?phone=558386296286" target="blank" >
         <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/icons8-whatsapp.svg" width="30px" height="30px"/>
     </a>
-    <a href="glegogle84@gmail.com" target="blank" >
+    <a href="mailto:glegogle84@gmail.com" target="blank" >
         <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/gmail.svg" width="30px" height="30px"/>
     </a>
 </p>
