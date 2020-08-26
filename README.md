@@ -2,16 +2,16 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gledson-santos-de-souza-abb096196/">
-        <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/social-networks/icons8-linkedin.svg" width="30px" height="30px">
+        <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/icons8-linkedin.svg" width="30px" height="30px">
     </a>
     <a href="https://api.whatsapp.com/send?phone=558386296286" target="blank" >
-        <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/social-networks/icons8-whatsapp.svg" width="30px" height="30px"/>
+        <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/icons8-whatsapp.svg" width="30px" height="30px"/>
     </a>
     <a href="https://www.facebook.com/gledson.santos.712/" target="blank">
-        <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/social-networks/icons8-facebook.svg" width="30px" height="30px" />
+        <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/icons8-facebook.svg" width="30px" height="30px" />
     </a>
     <a href="https://www.instagram.com/gledson.js/" target="blank">
-        <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/social-networks/icons8-instagram.svg" width="30px" height="30px" />
+        <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/icons8-instagram.svg" width="30px" height="30px" />
     </a>
 </p>
 
@@ -26,17 +26,17 @@
 - ⚡ Fun fact: I like to study music.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/stacks/icons8-react-native.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/stacks/icons8-typescript.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/stacks/icons8-javascript.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/stacks/icons8-nodejs.svg" alt="nodejs" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/stacks/icons8-html-5.svg" alt="html5"  width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/stacks/icons8-css3.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/GledsonS831/GledsonS831/master/assets/stacks/icons8-c++.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/stacks/icons8-react-native.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/stacks/icons8-typescript.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/stacks/icons8-javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/stacks/icons8-nodejs.svg" alt="nodejs" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/stacks/icons8-html-5.svg" alt="html5"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/stacks/icons8-css3.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/stacks/icons8-c++.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=GledsonS831&show_icons=true&theme=vue" alt="GledsonS831"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gledson-ss&show_icons=true&theme=vue" alt="gledson-ss"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GledsonS831&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gledson-ss&theme=vue)
