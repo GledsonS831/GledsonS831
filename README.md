@@ -36,4 +36,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gledson-ss&show_icons=true&theme=vue" alt="gledson-ss"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gledson-ss&theme=vue)
