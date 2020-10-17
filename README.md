@@ -16,7 +16,7 @@
 
 <!--- 🔭 I’m currently working on Assert-CG -->
 
-- 🌱 I’m currently learning React and Database.
+- 🌱 I’m currently learning Database.
 - 👯 I’m looking to collaborate on fullstack projects.
 - 💬 Ask me about Javascript, Typescript, Html, CSS, C++.
 - 📫 How to reach me: glegogle84@gmail.com or social network linked above.
