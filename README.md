@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/gledson-santos-de-souza-abb096196/">
         <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/icons8-linkedin.svg" width="30px" height="30px">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=558386296286" target="blank" >
+    <a href="https://api.whatsapp.com/send?phone=558388395259" target="blank" >
         <img src="https://raw.githubusercontent.com/gledson-ss/gledson-ss/master/assets/social-networks/icons8-whatsapp.svg" width="30px" height="30px"/>
     </a>
     <a href="mailto:glegogle84@gmail.com" target="blank" >
