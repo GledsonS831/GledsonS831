@@ -16,10 +16,9 @@
 
 <!--- 🔭 I’m currently working on Assert-CG -->
 
-- 🌱 I’m currently learning Database.
 - 👯 I’m looking to collaborate on fullstack projects.
 - 💬 Ask me about Javascript, Typescript, Html, CSS, C++.
-- 📫 How to reach me: contato@gledson.dev or social network linked above.
+- 📫 Contact me: contato@gledson.dev or social network linked above.
 - ⚡ Fun fact: I like to study music.
 
 <p align="left">
